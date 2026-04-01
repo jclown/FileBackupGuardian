@@ -32,8 +32,8 @@
 下载对应平台的安装包：
 
 - **Windows**: `.exe` 
-- **macOS**: `.dmg` 或 `.zip`（）
-- **Linux**: `.AppImage` 或 `.deb`
+- **macOS**: `.dmg` 或 `.zip`（暂无）
+- **Linux**: `.AppImage` 或 `.deb`（暂无）
 
 ### 从源码构建
 
