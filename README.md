@@ -1,6 +1,6 @@
 # FileBackupGuardian
 
-企业级文件自动备份与对比工具，基于 Electron + Vue 3 构建。
+文件自动备份与对比工具，基于 Electron + Vue 3 构建。
 
 ## 功能特性
 
@@ -31,15 +31,15 @@
 
 下载对应平台的安装包：
 
-- **Windows**: `.exe` (NSIS 安装器) 或 `.exe` (便携版)
-- **macOS**: `.dmg` 或 `.zip`
+- **Windows**: `.exe` 
+- **macOS**: `.dmg` 或 `.zip`（）
 - **Linux**: `.AppImage` 或 `.deb`
 
 ### 从源码构建
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/FileBackupGuardian.git
+git clone https://github.com/jclown/FileBackupGuardian.git
 cd FileBackupGuardian
 
 # 安装依赖
